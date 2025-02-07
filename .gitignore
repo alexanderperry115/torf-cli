@@ -1,0 +1,7 @@
+dist/
+.DS_Store
+.env
+*.log
+*.pyc
+node_modules/
+build/
